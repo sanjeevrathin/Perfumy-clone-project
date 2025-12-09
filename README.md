@@ -14,9 +14,12 @@ This project is made for practicing web design, layout structure, and styling fu
 
 ---
 
-## 📁 Project Setup
+📂 Project Status
+This is a static front-end project created for learning and demonstration purposes. No  back-end functionality is included.
 
-Just download or clone the project:
+Let me know if you'd like to include a live demo link, screenshots, or customize it further (e.g. if you added animations or mobile responsiveness).
 
-```bash
-git clone  https://sanjeevrathin.github.io/Perfumy-clone-project/
+perfumy-Clone-Website
+you can access my portfolio website by Visiting https://sanjeevrathin.github.io/Udemy-Clone-Website/ feel free to explore the content and get in touch!
+
+Thank you for visit my perfumy-Clone Website!
