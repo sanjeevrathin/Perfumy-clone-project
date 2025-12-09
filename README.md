@@ -19,4 +19,4 @@ This project is made for practicing web design, layout structure, and styling fu
 Just download or clone the project:
 
 ```bash
-git clone https://github.com/your-username/perfumy.git
+git clone  https://sanjeevrathin.github.io/Perfumy-clone-project/
